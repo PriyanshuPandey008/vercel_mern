@@ -28,3 +28,21 @@
   justify-content:center;
   text-align:center;
 }
+
+#signin{
+  position:absolute;
+  margin:20px;
+  padding:20px;
+  border-radius:30px;
+  background-color:green;
+
+}
+
+#signup{
+  position:relative;
+  margin:20px;
+  padding:20px;
+  top: 30px;
+  right:30px;
+  border-radius:30px;
+}
