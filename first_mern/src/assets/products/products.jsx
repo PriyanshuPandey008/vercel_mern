@@ -13,6 +13,8 @@ const products = () => {
           <h2>Product Name</h2>
           <p>Product Description</p>
           <p>Price: $XX.XX</p>
+          <p>Discount: XX%</p>
+          <p>Category: XX</p>
           <button>Add to Cart</button>
         </div>
       </div>
@@ -24,6 +26,8 @@ const products = () => {
           <h2>Product Name</h2>
           <p>Product Description</p>
           <p>Price: $XX.XX</p>
+          <p>Discount: XX%</p>
+          <p>Category: XX</p>
           <button>Add to Cart</button>
         </div>
 </div>
