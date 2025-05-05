@@ -2,7 +2,10 @@ import React from 'react'
 
 const productid = () => {
   return (
-    <div>productid</div>
+    <div>
+      <h1>productid</h1>
+      
+    </div>
   )
 }
 

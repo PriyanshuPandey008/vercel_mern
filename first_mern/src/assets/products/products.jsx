@@ -2,7 +2,31 @@ import React from 'react'
 
 const products = () => {
   return (
-    <div>products</div>
+    <div>
+      <h1>products</h1>
+      <div className="product">
+        <div className="product-image">
+          <img src="" alt="" />
+        </div>
+        <div className="product-details">
+          <h2>Product Name</h2>
+          <p>Product Description</p>
+          <p>Price: $XX.XX</p>
+          <button>Add to Cart</button>
+        </div>
+      </div>
+      <div className="product">
+        <div className="product-image">
+          <img src="" alt="" />
+        </div>
+        <div className="product-details">
+          <h2>Product Name</h2>
+          <p>Product Description</p>
+          <p>Price: $XX.XX</p>
+          <button>Add to Cart</button>
+        </div>
+</div>
+    </div>
   )
 }
 
