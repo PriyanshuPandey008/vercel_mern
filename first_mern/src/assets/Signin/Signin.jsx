@@ -11,6 +11,7 @@ const Signin = () => {
       <form>
         <input type="email" placeholder='Email' value={Email} onChange={(e)=>setemail(e.target.value)} />
         <input type="password" placeholder='Password' value={Password} onChange={(e)=>setpassword(e.target.value)} />
+        <input type="text" placeholder='Name' value={Name} onChange={(e)=>setname(e.target.value)} />
         <button type='submit'>Signin</button>
       </form>
 
